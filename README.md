@@ -26,6 +26,8 @@ mkdir -p ./data/db
 2. Start MongoDB
 mongod --dbpath ./data/db --bind_ip_all
 
+bind_ip_all allows MongoDB Compass on windows to connect to the WSL MongoDB
+
 mongodb://172.xx.xx.xx:27017
 
 Find IP with:
