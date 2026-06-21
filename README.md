@@ -38,3 +38,7 @@ Run these separately in their own WSL terminals:
 1. mongod --dbpath ./data/db --bind_ip_all
 2. uv run publisher.py
 3. uv run mongoDB.py
+4. uv run visualizer.py
+
+<img width="624" height="469" alt="image" src="https://github.com/user-attachments/assets/ee5ff556-7a2a-409c-9ebf-4cde6be3c158" />
+
