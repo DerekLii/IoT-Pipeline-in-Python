@@ -10,6 +10,8 @@ MQTT Publisher  →  MQTT Broker (localhost:1883)
                          ↓
         MongoDB Compass (Windows)
 
+Device / Sensor --> MQTT --> Edge Processing --> Database --> Visualization --> Action
+
 WSL (Ubuntu)
 Python 3.10+
 MongoDB Community Server
